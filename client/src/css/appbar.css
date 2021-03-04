@@ -1,0 +1,7 @@
+.MuiAppBar-colorPrimary{
+    background: linear-gradient(90deg, rgb(212 177 109) 0%, rgba(244,235,141,1) 50%, rgba(171,130,50,1) 100%);
+}
+
+.MuiToolbar-dense{
+    justify-content: center;
+}

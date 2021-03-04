@@ -1,0 +1,16 @@
+.MuiGrid-item{
+    flex-basis:auto;
+    direction: rtl
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+#scrollable-list::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+#scrollable-list {
+  direction: ltr;
+  justify-content: space-around;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
